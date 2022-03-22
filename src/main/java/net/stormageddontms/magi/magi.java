@@ -24,6 +24,7 @@ public class magi {
     private static final Logger LOGGER = LogManager.getLogger();
     public static final String MOD_ID = "magi";
 
+    //hello
     public magi() {
         // Register the setup method for modloading
         FMLJavaModLoadingContext.get().getModEventBus().addListener(this::setup);
