@@ -1,0 +1,13 @@
+{
+  "item.magi.silver_ingot": "Silver Ingot",
+  "item.magi.raw_silver": "Raw Silver",
+  "item.magi.silver_nugget": "Silver Nugget",
+
+  "block.magi.silver_block": "Silver Block",
+  "block.magi.raw_silver_block": "Raw Silver Block",
+  "block.magi.silver_ore": "Silver Ore",
+  "block.magi.deepslate_silver_ore": "Deepslate Silver Ore",
+  "block.magi.netherrack_silver_ore": "Netherrack Silver Ore",
+
+  "itemGroup.magitab": "Magi"
+}

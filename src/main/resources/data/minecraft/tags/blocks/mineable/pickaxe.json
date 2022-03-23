@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "magi:silver_block",
+    "magi:silver_ore",
+    "magi:deepslate_silver_ore",
+    "magi:netherrack_silver_ore",
+    "magi:raw_silver_block"
+  ]
+}
